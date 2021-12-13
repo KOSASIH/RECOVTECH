@@ -1,0 +1,46 @@
+version = 1
+
+[[analyzers]]
+name = "terraform"
+enabled = true
+
+[[analyzers]]
+name = "php"
+enabled = true
+
+  [analyzers.meta]
+  bootstrap_files = ["5000"]
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  plugins = [
+    "react",
+    "angularjs",
+    "meteor"
+  ]
+
+[[analyzers]]
+name = "docker"
+enabled = true
+
+  [analyzers.meta]
+  dockerfile_paths = ["5000"]
+
+[[analyzers]]
+name = "go"
+enabled = true
