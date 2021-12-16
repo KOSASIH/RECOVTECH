@@ -7,6 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/RECOVTECH?style=plastic)](https://github.com/KOSASIH/RECOVTECH/blob/main/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/RECOVTECH)](https://github.com/KOSASIH/RECOVTECH/network)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/RECOVTECH)](https://github.com/KOSASIH/RECOVTECH/stargazers)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
 
 # RECOVTECH
 Disaster auto recovery data base management system
