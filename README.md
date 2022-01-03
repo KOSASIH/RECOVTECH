@@ -11,6 +11,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5479/badge)](https://bestpractices.coreinfrastructure.org/projects/5479)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=KOSASIH/RECOVTECH)
 
 
 # RECOVTECH
