@@ -10,6 +10,7 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5479/badge)](https://bestpractices.coreinfrastructure.org/projects/5479)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KOSASIH&theme=blue-green)
 
 
 # RECOVTECH
